@@ -27,15 +27,16 @@ Projeto com imagens de carros da Fórmula E
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+- Bing image Creater - Usando o  prompt para gerar as imagens em um contexto.
 
 ## 🧐 Processo de Criação
-Solicitado para ferramenta de IA , para gerar imagens de carros de Fórmula E.
+Solicitado no Big Image Creator, informando no prompt um contexto para geração das imagens de carros de Fórmula E.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Facilidade como as ferramentas conseguem gerar imagens com a linguame natural.
+Facilidade como as ferramentas conseguem gerar modelos LLMs - imagens em um contexto usanddo a linguame natural.
 ```
 
 ### Exemplos e Insigths
