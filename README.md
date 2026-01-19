@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Carros Fórmula E;)
 
 ## 📒 Descrição
-Projeto com imagens de carros da Fórmula E
+Projeto geração de imagens de carros da Fórmula E em um contexto.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
@@ -39,9 +39,9 @@ Apresente os resultados do seu projeto
 Facilidade como as ferramentas conseguem gerar modelos LLMs - imagens em um contexto usanddo a linguame natural.
 ```
 
-### Exemplos e Insigths
 
 ## Links Interessantes
+https://www.bing.com/images/create#
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
